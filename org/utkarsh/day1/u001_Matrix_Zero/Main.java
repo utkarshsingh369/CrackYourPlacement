@@ -1,4 +1,4 @@
-package org.utkarsh.u001_Matrix_Zero;
+package org.utkarsh.day1.u001_Matrix_Zero;
 
 import java.util.Arrays;
 

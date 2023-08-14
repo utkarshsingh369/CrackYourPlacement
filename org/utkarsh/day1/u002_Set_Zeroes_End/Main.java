@@ -1,4 +1,4 @@
-package org.utkarsh.u002_Set_Zeroes_End;
+package org.utkarsh.day1.u002_Set_Zeroes_End;
 
 import java.util.Arrays;
 

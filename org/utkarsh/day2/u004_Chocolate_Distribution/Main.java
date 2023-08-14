@@ -1,4 +1,4 @@
-package org.utkarsh.u004_Chocolate_Distribution;
+package org.utkarsh.day2.u004_Chocolate_Distribution;
 
 import java.util.Arrays;
 

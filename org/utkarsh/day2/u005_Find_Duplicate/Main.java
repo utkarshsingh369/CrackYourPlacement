@@ -1,4 +1,4 @@
-package org.utkarsh.u005_Find_Duplicate;
+package org.utkarsh.day2.u005_Find_Duplicate;
 
 public class Main {
     static int findDuplicate(int[] nums){
